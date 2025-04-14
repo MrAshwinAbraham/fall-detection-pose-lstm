@@ -48,7 +48,7 @@ fall-detection-pose-lstm/
 
 1. **Clone the repo:**
 ```bash
-git clone https://github.com/yourusername/fall-detection-pose-lstm.git
+git clone https://github.com/MrAshwinAbraham/fall-detection-pose-lstm.git
 cd fall-detection-pose-lstm
 ```
 2. **Create the vitrual Environment:**
